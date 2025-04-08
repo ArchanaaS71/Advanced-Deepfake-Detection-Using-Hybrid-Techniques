@@ -1,6 +1,3 @@
-# Advanced-Deepfake-Detection-Using-Hybrid-Techniques
-A robust deepfake detection framework leveraging hybrid diffusion-based GANs, Vision Transformer (ViT) feature extraction, and traditional ML classifiers to effectively distinguish between real and fake images with high accuracy.
-
 # 🧠 Advanced Deepfake Detection Using Hybrid Diffusion-Based Techniques
 
 This repository contains the implementation of a deepfake detection system that combines a hybrid diffusion-based GAN for generating realistic fake images, Vision Transformer (ViT) for powerful feature extraction, and traditional machine learning classifiers (SVM, Random Forest, Logistic Regression) for high-accuracy classification.
